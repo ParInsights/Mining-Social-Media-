@@ -1,7 +1,6 @@
-# Mining-Twitter News-Media-
 repository to track social media mining projects. 
 
-Project 2 - Semi Structured Data Project
+## Project 2 - Semi Structured Data Project
 
 Outline of Project:Write a program that will read in JSON Formatted data from a file
 Perform Data Analysis Summaries of import Data
